@@ -9,7 +9,7 @@ I am a Mechatronics Engineering student exploring the world of robotics, AI, and
 ## 🎓 What Drives Me
 I'm passionate about learning through building. Every project is a step toward developing real-world solutions that combine mechanical, electrical, and intelligent systems.
 
-## About me:
+## 💡 About me:
 👩‍💻 I'm currently working on:
 - 🤖 **GRASP-01:** Developing a humanoid robotic arm, using ROS2 and CAN bus control. Under [GRASP LAB Ontario Tech](https://grasplab.ca/)
 - 🍓 **Strawberry-Harvesting Robot:** Integrating CV models for harvesting and helping with mechanical related tasks. [Moduleaf](https://www.moduleaf.ca/)
